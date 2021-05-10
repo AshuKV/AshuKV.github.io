@@ -1,13 +1,14 @@
 ---
-date: '2'
-title: 'GirlScript Twitter Bot'
-cover: './twitterbot.png'
-github: 'https://github.com/chandrikadeb7/Girlscript-Twitter-Bot'
-external: 'https://twitter.com/girlscript_bot'
+date: '1'
+title: 'License Plate Detection'
+cover: './PlateDetection1.png'
+github: 'https://github.com/AshuKV/License-Plate-Detection'
+# external: 'https://twitter.com/girlscript_bot'
 tech:
   - Python
-  - tweepy
-  - Twitter API
+  - Pytesseract
+  - Pytorch
+  - TensorFlow  API
 showInProjects: true
 ---
 

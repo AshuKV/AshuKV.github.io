@@ -1,15 +1,17 @@
 ---
 date: '1'
-title: 'Profile Launcher - Chrome Extension'
-cover: 'demo1.png'
-github: 'https://github.com/chandrikadeb7/Social-Media-Launcher-Chrome-Extension'
-external: 'https://github.com/chandrikadeb7/Social-Media-Launcher-Chrome-Extension'
+title: 'Tumors Prediction'
+cover: 'Cancer1.jpg'
+github: 'https://github.com/AshuKV/Prediction-of-benign-or-malignant-cancer-tumors'
+# external: 'https://github.com/AshuKV/Prediction-of-benign-or-malignant-cancer-tumors'
 tech:
-  - HTML
-  - Javascript
+  - Pandas
+  - Numpy
+  - seaborn
+  - sklearn
+  - catboost
 
-showInProjects: true
+showInProjects: false
 ---
 
-Simple Chrome Extension for a quick launcher to your all social media profiles at one click.
-Inspired by the tutorial video of [Traversy Media](https://www.youtube.com/watch?v=wHZCYi1K664)
+Prediction of benign or malignant cancer tumors Using ML.

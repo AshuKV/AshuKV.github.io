@@ -1,21 +1,27 @@
 ---
 title: 'About Me'
-avatar: 'me.jpg'
+avatar: 'PhotoAshutoshVerma.jpg'
 skills:
-  - Tech Blogging
-  - Pencil Sketch
-  - Kathak Dance
-  - Public Speaking
-  - Team Management
-  - Mentoring
+  - C/C++
+  - Python
+  - Java
+  - SQL
+  - Data Science
+  - HTML
+  - CSS
+  - Javascript
+  - Docker
+  - Linux
+  - Git
+  - Node.js
+  - Express.js
+  - React.js
 ---
 
-Hello! I'm Chandrika Deb, from Jamshedpur, also known as Pittsburgh of India.
+Hello! I'm Ashutosh Kumar Verma, from Prayagraj, also known as Allahabad.
 
-A Software Engineering Associate in the Digital Delivery team at [Amdocs](https://www.amdocs.com/), India.
+A Software Engineering Intern at [Novopay](https://www.novopay.in/), India.
 
-I have completed my Bachelors from [BIT Mesra](https://www.bitmesra.ac.in/) in Computer Science and Engineering (2016-2020) with [86.3% aggregate](https://drive.google.com/file/d/1G4UBPBP0mvWZLRdkF_EcpmKKGp7_OA8U/view?usp=sharing). 
+I have completed my Bachelors from [Indian Institute of Information Technology Pune](https://www.iiitp.ac.in/) in Electronics and Communication Engineering (2017-2021) with 85.2% aggregate.
 
-I have also been awarded as Runners-Up in [Project ICE(Innovative and Creative Environment) Fair](https://drive.google.com/file/d/1laynNsd9hIqxL-imT8dkAWqq7ZO4hj1a/view?usp=sharing) by Amdocs.
-
-Here are a few of the other activities that I love to do!
+Here are my skills:

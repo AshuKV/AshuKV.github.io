@@ -1,24 +1,25 @@
-<div align="center">
-  <img alt="Logo" src="https://github.com/chandrikadeb7/chandrikadeb7.github.io/blob/code/src/images/logo.png" width="100" />
-</div>
+<!-- <div align="center">
+  <img alt="Logo" src="" width="100" />
+</div> -->
 <h1 align="center">
-  Portfolio Website Version 2
+  Portfolio Website Version 1
 </h1>
 <p align="center">
-  The second iteration of <a href="https://chandrikadeb7.gihub.io/" target="_blank">chandrikadeb7.github.io</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://pages.github.com/" target="_blank">Github Pages</a>
+  The first iteration of <a href="https://AshuKV.github.io/" target="_blank">AshuKV.github.io</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://pages.github.com/" target="_blank">Github Pages</a>
 </p>
+<!-- 
 <p align="center">
   Previous iterations:
-  <a href="https://github.com/chandrikadeb7/chandrikadeb7.github.io-v1" target="_blank">Version 1</a>
-</p>
+  <a href="" target="_blank">Version 1</a>
+</p> -->
 
-<div align="center">
-  <img alt="Demo" src="https://github.com/chandrikadeb7/chandrikadeb7.github.io/blob/code/src/images/demo.png" />
-</div>
+<!-- <div align="center">
+  <img alt="Demo" src="" />
+</div> -->
 
-### TL;DR
+<!-- ### TL;DR
 
-Yes, you can fork this repo. Please give proper credit by linking back to [brittanychiang.com](https://brittanychiang.com). Thanks!
+Yes, you can fork this repo. Please give proper credit by linking back to (https://brittanychiang.com). Thanks! -->
 
 ## 🛠 Installation & Set Up
 
@@ -28,19 +29,13 @@ Yes, you can fork this repo. Please give proper credit by linking back to [britt
    npm install -g gatsby-cli
    ```
 
-2. Install and use the correct version of Node using [NVM](https://github.com/nvm-sh/nvm)
+2. Install Node.js and install dependencies using:
 
    ```sh
-   nvm install
+   npm i
    ```
 
-3. Install dependencies
-
-   ```sh
-   yarn
-   ```
-
-4. Start the development server
+3. Start the development server
 
    ```sh
    npm start

@@ -1,9 +1,9 @@
 ---
 date: '2020-05-08'
-title: 'Tech Content Writer'
-company: 'Open Source Code'
-range: 'May 2020 - Present'
-url: 'https://opensourcecode.tech/'
+title: 'Runber-Uo'
+company: 'SIH 2020'
+range: 'Feb 2020 - April 2020'
+url: 'https://www.sih.gov.in/sih2020PS/NA==/U29mdHdhcmU=/RGVwYXJ0bWVudCBvZiBBdG9taWMgRW5lcmd5/QWxs'
 ---
 
 - Drafted all the website content for the startup.

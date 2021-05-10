@@ -1,6 +1,6 @@
 ---
-title: 'Get In Touch'
-buttonText: 'Mail Me'
+title: 'Get in touch'
+buttonText: 'Just mail me'
 ---
 
-My inbox is always open. Whether you have a question or just want to say hello, I'll try my best to get back to you! Feel free to mail me about any relevant job updates.
+Please feel free to ask a question or just want to have a chat, just mail me, I'll try to get back to you as soon as possible!
