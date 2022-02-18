@@ -20,7 +20,7 @@ skills:
 
 Hello! I'm Ashutosh Kumar Verma, from Prayagraj, also known as Allahabad.
 
-A Software Engineering Intern at [Novopay](https://www.novopay.in/), India.
+An Associate Software Engineer at [Boeing](https://www.novopay.in/), India.
 
 I have completed my Bachelors from [Indian Institute of Information Technology Pune](https://www.iiitp.ac.in/) in Electronics and Communication Engineering (2017-2021) with 85.2% aggregate.
 
