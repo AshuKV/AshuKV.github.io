@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://ashu.github.io/sitemap.xml
+Sitemap: https://ashu.github.io/sitemap-index.xml
 Host: https://ashu.github.io
