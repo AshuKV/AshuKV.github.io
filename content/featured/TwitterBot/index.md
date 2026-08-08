@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '4'
 title: 'License Plate Detection'
 cover: './PlateDetection1.png'
 github: 'https://github.com/AshuKV/License-Plate-Detection'
@@ -12,4 +12,4 @@ tech:
 showInProjects: true
 ---
 
-A Twitter Bot for [GirlScript Foundation](https://www.girlscript.tech/) that automatically retweets, favourites the tweets and follows the users who tweet with hashtag #girlscript. Checkout my tech blog on how to create it [HERE](https://www.geeksforgeeks.org/how-to-make-a-twitter-bot-in-python/)
+An automatic License Plate Detection using YOLOv4 and Darknet
