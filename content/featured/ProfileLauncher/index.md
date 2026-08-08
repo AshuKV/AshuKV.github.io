@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '3'
 title: 'Tumors Prediction'
 cover: 'Cancer1.jpg'
 github: 'https://github.com/AshuKV/Prediction-of-benign-or-malignant-cancer-tumors'

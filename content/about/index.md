@@ -1,21 +1,26 @@
 ---
 title: 'About Me'
-avatar: 'PhotoAshutoshVerma.jpg'
+avatar: 'photo.png'
 skills:
-  - C/C++
   - Python
+  - C/C++
+  - Javascript
   - Java
-  - SQL
+  - Machine Learning
+  - LLM
+  - LangChain
+  - RAG
+  - MCP
   - Data Science
   - HTML
   - CSS
-  - Javascript
-  - Docker
-  - Linux
-  - Git
   - Node.js
   - Express.js
   - React.js
+  - SQL
+  - Docker
+  - Linux
+  - Git
 ---
 
 Hello! I'm Ashutosh Kumar Verma, from Prayagraj, also known as Allahabad.
